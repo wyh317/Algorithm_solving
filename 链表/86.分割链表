@@ -1,0 +1,42 @@
+# 86 分割链表
+
+**题目：**  
+给定一个链表和一个特定值 x，对链表进行分隔，使得所有小于 x 的节点都在大于或等于 x 的节点之前。
+
+
+**示例:**   
+输入: head = 1->4->3->2->5->2, x = 3  
+输出: 1->2->2->4->3->5
+
+**思路：**
+* 建立两个链表min和max，分别收集小于x的元素和大于等于x的元素。头结点分别设为两个哑节点minhead和maxhead，也就是说实际的第一个节点为哑节点的next。
+* 遍历原有链表的每一个元素，若元素值小于x，则放入min链表中，若元素值大于等于x，则放入max链表中。
+* 遍历完所有元素之后，将min链表和max链表连接，max的最后指向null，min的最后指向max的开头，即maxhead.next
+
+**代码：**
+```java
+public ListNode partition(ListNode head, int x) {
+    ListNode minhead = new ListNode(0);
+    ListNode mincur = minhead;
+    ListNode maxhead = new ListNode(0);
+    ListNode maxcur = maxhead;
+    ListNode cur = head;
+    while(cur != null){
+        if(cur.val < x){
+            mincur.next = cur;
+            mincur = mincur.next;
+        }
+        else{
+            maxcur.next = cur;
+            maxcur = maxcur.next;
+        }
+        cur = cur.next;
+    }
+    maxcur.next = null;
+    mincur.next = maxhead.next;
+    return minhead.next;
+}
+```
+
+**时间复杂度：O(n)**  
+**空间复杂度：O(1)**
