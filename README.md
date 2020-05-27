@@ -1,10 +1,10 @@
 # Leetcode
 记录自己在练习Leetcode算法题过程中的心得总结，以及一些题目的Java版本代码，持续更新
 
-## :memo: 目录：
----
+## 目录：
 
-## :pencil2: 数据结构
+
+## :memo: 数据结构
 ### 链表
 * 61 [旋转链表](https://github.com/wyh317/Leetcode/blob/master/%E9%93%BE%E8%A1%A8/61.%E6%97%8B%E8%BD%AC%E9%93%BE%E8%A1%A8.md)
 * 82 [删除排序链表中的重复元素 II](https://github.com/wyh317/Leetcode/blob/master/%E9%93%BE%E8%A1%A8/82.%E5%88%A0%E9%99%A4%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0%20II.md)
