@@ -1,0 +1,88 @@
+# 116 填充每个节点的下一个右侧节点指针
+
+**题目：**  
+给定一个完美二叉树，其所有叶子节点都在同一层，每个父节点都有两个子节点。二叉树定义如下：
+
+struct Node {
+  int val;
+  Node *left;
+  Node *right;
+  Node *next;
+}
+
+填充它的每个 next 指针，让这个指针指向其下一个右侧节点。如果找不到下一个右侧节点，则将 next 指针设置为 NULL。
+
+初始状态下，所有 next 指针都被设置为 NULL。
+
+
+## 递归解法 
+每个 node 左子树的 next , 就是 node 的右子树  
+每个 node 右子树的 next, 就是 node next 的 左子树  
+
+**代码：**  
+```java
+class Solution {
+    public Node connect(Node root) {
+        if(root == null)
+            return null;
+        if(root.left != null)
+            root.left.next = root.right;
+        if(root.right != null)
+            root.right.next = root.next != null ? root.next.left : null;
+        connect(root.left);
+        connect(root.right);
+        return root; 
+    }
+}
+```
+
+## BFS解法
+**算法**：    
+1. 创建一个辅助队列 Q，通过以下方式实现层序遍历：          每一步都记录当前队列中全部 元素数量，即对应树中一个层级元素的数量。然后从队列中处理对应数量的元素。完成后，这一层级所有的节点都被访问，队列包含下一层级的 全部 节点
+```java
+while (!Q.empty())
+{
+    size = Q.size()
+    for i in range 0..size
+    {
+        node = Q.pop()
+        Q.push(node.left)
+        Q.push(node.right)
+    }
+}
+```
+2. 首先在队列中加入根节点。因为第 0 层级只有一个节点，不需要建立连接，直接进入 while 循环即可
+3. 伪代码中 while 循环迭代的是树的层级，内部的 for 循环迭代的是一个层级上所有的节点。由于可以访问同一层级的所有节点，因此能够建立指针连接。
+4. for 循环弹出一个节点时，同时把它的孩子节点加入队列。因此队列中每个层级的元素也是顺序存储的。可以通过已有的顺序建立 next 指针。
+
+```java
+class Solution {
+    public Node connect(Node root) {
+        if (root == null) {
+            return root;
+        }
+        Queue<Node> Q = new LinkedList<Node>(); 
+        Q.add(root);
+        //while迭代树的层级
+        while (Q.size() > 0) {
+            int size = Q.size();
+            //for迭代同一层级上的所有节点
+            for(int i = 0; i < size; i++) {
+                Node node = Q.poll();
+
+                if (i < size - 1) {
+                    node.next = Q.peek();
+                }
+                if (node.left != null) {
+                    Q.add(node.left);
+                }
+                if (node.right != null) {
+                    Q.add(node.right);
+                }
+            }
+        }
+        return root;
+    }
+}
+
+```
