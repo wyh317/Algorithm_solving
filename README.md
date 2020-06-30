@@ -55,7 +55,7 @@
 * 167 [两数之和 II - 输入有序数组](https://github.com/wyh317/Leetcode/blob/master/%E5%8F%8C%E6%8C%87%E9%92%88/167.%20%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C%20II%20-%20%E8%BE%93%E5%85%A5%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84.md)
 
 ### 动态规划
-* 5 [最长回文子串](https://github.com/wyh317/Leetcode/tree/master/动态规划)
+* 5 [最长回文子串](https://github.com/wyh317/Leetcode/blob/master/动态规划/5.最长回文子串.md)
 * 53 [最大子序和](https://github.com/wyh317/Leetcode/blob/master/动态规划/53.最大子序和.md
 )
 * 70 [爬楼梯](https://github.com/wyh317/Leetcode/blob/master/动态规划/70.爬楼梯.md)
