@@ -14,7 +14,7 @@
 * 142 [环形链表 II](https://github.com/wyh317/Leetcode/blob/master/%E9%93%BE%E8%A1%A8/142.%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8%20II.md)
 * 143 [重排链表](https://github.com/wyh317/Leetcode/blob/master/%E9%93%BE%E8%A1%A8/143.%E9%87%8D%E6%8E%92%E9%93%BE%E8%A1%A8.md)
 * 160 [相交链表](https://github.com/wyh317/Leetcode/blob/master/%E9%93%BE%E8%A1%A8/160.%E7%9B%B8%E4%BA%A4%E9%93%BE%E8%A1%A8.md)
-
+* 234 [回文链表](https://github.com/wyh317/Leetcode/blob/master/%E9%93%BE%E8%A1%A8/234.%E5%9B%9E%E6%96%87%E9%93%BE%E8%A1%A8.md)
 
 ### 数组
 * 55 [跳跃游戏](https://github.com/wyh317/Leetcode/blob/master/%E6%95%B0%E7%BB%84/55.%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8F.md)
