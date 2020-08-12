@@ -79,5 +79,6 @@
 ### 其它
 * 58 [最后一个单词的长度(字符串)](https://github.com/wyh317/Leetcode/blob/master/其他/58.最后一个单词的长度.md)
 * 169 [多数元素(哈希表)](https://github.com/wyh317/Leetcode/blob/master/其他/169.多数元素.md)
+* 172 [阶乘后的0](https://github.com/wyh317/Leetcode/blob/master/%E5%85%B6%E4%BB%96/172.%E9%98%B6%E4%B9%98%E5%90%8E%E7%9A%840.md)
 * 231 [2的幂(位运算)](https://github.com/wyh317/Leetcode/blob/master/其他/231.2的幂.md)
 ---
