@@ -55,6 +55,7 @@
 ### 字符串
 * 5 [最长回文子串](https://github.com/wyh317/Leetcode/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/5.%20%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2.md)
 * 43 [字符串相乘](https://github.com/wyh317/Leetcode/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/43.%20%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9B%B8%E4%B9%98.md)
+* 179 [最大数](https://github.com/wyh317/Leetcode/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/179.%E6%9C%80%E5%A4%A7%E6%95%B0.md)
 * 208 [实现Trie(前缀树)](https://github.com/wyh317/Leetcode/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/208.%E5%AE%9E%E7%8E%B0Trie%E6%A0%91.md)
 * 459 [重复的字符串](https://github.com/wyh317/Leetcode/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/459.%20%E9%87%8D%E5%A4%8D%E7%9A%84%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
 * 647 [回文子串](https://github.com/wyh317/Leetcode/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/647%20%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2.md)
@@ -93,6 +94,7 @@
 * 322 [零钱兑换](https://github.com/wyh317/Leetcode/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/322.%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2.md)
 
 ### 贪心算法
+* 134 [加油站](https://github.com/wyh317/Leetcode/blob/master/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/134.%E5%8A%A0%E6%B2%B9%E7%AB%99.md)
 * 502 [IPO](https://github.com/wyh317/Leetcode/blob/master/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/502.IPO.md)
 ### 滑动窗口
 * 3 [无重复字符的最长子串](https://github.com/wyh317/Leetcode/blob/master/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3/3.%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2.md)
