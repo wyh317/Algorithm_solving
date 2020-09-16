@@ -40,6 +40,7 @@
 
 ### 栈与队列
 * 20 [有效的括号](https://github.com/wyh317/Leetcode/blob/master/%E6%A0%88%E4%B8%8E%E9%98%9F%E5%88%97/20.%E6%9C%89%E6%95%88%E7%9A%84%E6%8B%AC%E5%8F%B7.md)
+* 71 [简化路径](https://github.com/wyh317/Leetcode/blob/master/%E6%A0%88%E4%B8%8E%E9%98%9F%E5%88%97/71.%E7%AE%80%E5%8C%96%E8%B7%AF%E5%BE%84.md)
 * 225 [用队列实现栈](https://github.com/wyh317/Leetcode/blob/master/%E6%A0%88%E4%B8%8E%E9%98%9F%E5%88%97/225.%E7%94%A8%E9%98%9F%E5%88%97%E5%AE%9E%E7%8E%B0%E6%A0%88.md)
 * 232 [用栈实现队列](https://github.com/wyh317/Leetcode/blob/master/%E6%A0%88%E4%B8%8E%E9%98%9F%E5%88%97/232.%E7%94%A8%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97.md)
 
@@ -56,6 +57,7 @@
 * 117 [填充每个节点的下一个右侧节点指针II](https://github.com/wyh317/Leetcode/blob/master/树/117.填充每个节点的下一个右侧节点指针%20II.md)
 * 230 [二叉搜索树中第K小的元素](https://github.com/wyh317/Leetcode/blob/master/%E6%A0%91/230.%20%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E4%B8%AD%E7%AC%ACK%E5%B0%8F%E7%9A%84%E5%85%83%E7%B4%A0.md)
 * 257 [二叉树的所有路径](https://github.com/wyh317/Leetcode/blob/master/树/257.二叉树的所有路径.md)
+* 450 [删除二叉搜索树中的节点](https://github.com/wyh317/Leetcode/blob/master/%E6%A0%91/450.%E5%88%A0%E9%99%A4%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E4%B8%AD%E7%9A%84%E8%8A%82%E7%82%B9.md)
 
 ### 字符串
 * 5 [最长回文子串](https://github.com/wyh317/Leetcode/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/5.%20%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2.md)
@@ -94,6 +96,7 @@
 * 62 [不同路径](https://github.com/wyh317/Leetcode/blob/master/动态规划/62.不同路径.md)
 * 63 [不同路径II.md](https://github.com/wyh317/Leetcode/blob/master/动态规划/63.不同路径II.md)
 * 70 [爬楼梯](https://github.com/wyh317/Leetcode/blob/master/动态规划/70.爬楼梯.md)
+* 91 [解码方法](https://github.com/wyh317/Leetcode/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/91.%E8%A7%A3%E7%A0%81%E6%96%B9%E6%B3%95.md)
 * 96 [不同的二叉搜索树](https://github.com/wyh317/Leetcode/blob/master/%E6%A0%91/96.%E4%B8%8D%E5%90%8C%E7%9A%84%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.md)
 * 120 [三角形最短路径和](https://github.com/wyh317/Leetcode/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/120.%E4%B8%89%E8%A7%92%E5%BD%A2%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E5%92%8C.md)
 * 152 [乘积最大子数组](https://github.com/wyh317/Leetcode/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/152.%E4%B9%98%E7%A7%AF%E6%9C%80%E5%A4%A7%E5%AD%90%E6%95%B0%E7%BB%84.md)
