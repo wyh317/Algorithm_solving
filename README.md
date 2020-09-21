@@ -37,6 +37,7 @@
 * 268 [缺失数字](https://github.com/wyh317/Leetcode/blob/master/%E6%95%B0%E7%BB%84/268.%E7%BC%BA%E5%A4%B1%E6%95%B0%E5%AD%97.md)
 * 349 [两个数组的交集](https://github.com/wyh317/Leetcode/blob/master/%E6%95%B0%E7%BB%84/349.%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%BB%84%E7%9A%84%E4%BA%A4%E9%9B%86.md)
 * 384 [打乱数组](https://github.com/wyh317/Leetcode/blob/master/%E6%95%B0%E7%BB%84/384.%E6%89%93%E4%B9%B1%E6%95%B0%E7%BB%84.md)
+* 560 [和为K的子数组](https://github.com/wyh317/Leetcode/blob/master/%E6%95%B0%E7%BB%84/560.%E5%92%8C%E4%B8%BAK%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84.md)
 
 ### 栈与队列
 * 20 [有效的括号](https://github.com/wyh317/Leetcode/blob/master/%E6%A0%88%E4%B8%8E%E9%98%9F%E5%88%97/20.%E6%9C%89%E6%95%88%E7%9A%84%E6%8B%AC%E5%8F%B7.md)
