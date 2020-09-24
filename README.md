@@ -103,8 +103,10 @@
 * 91 [解码方法](https://github.com/wyh317/Leetcode/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/91.%E8%A7%A3%E7%A0%81%E6%96%B9%E6%B3%95.md)
 * 96 [不同的二叉搜索树](https://github.com/wyh317/Leetcode/blob/master/%E6%A0%91/96.%E4%B8%8D%E5%90%8C%E7%9A%84%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.md)
 * 120 [三角形最短路径和](https://github.com/wyh317/Leetcode/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/120.%E4%B8%89%E8%A7%92%E5%BD%A2%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E5%92%8C.md)
+* 139 [单词拆分](https://github.com/wyh317/Leetcode/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/139.%E5%8D%95%E8%AF%8D%E6%8B%86%E5%88%86.md)
 * 152 [乘积最大子数组](https://github.com/wyh317/Leetcode/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/152.%E4%B9%98%E7%A7%AF%E6%9C%80%E5%A4%A7%E5%AD%90%E6%95%B0%E7%BB%84.md)
 * 198 [打家劫舍](https://github.com/wyh317/Leetcode/blob/master/动态规划/198.打家劫舍.md)
+* 309 [最佳买卖股票时机含冷冻期](https://github.com/wyh317/Leetcode/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/309.%E6%9C%80%E4%BD%B3%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E6%97%B6%E6%9C%BA%E5%90%AB%E5%86%B7%E5%86%BB%E6%9C%9F.md)
 * 322 [零钱兑换](https://github.com/wyh317/Leetcode/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/322.%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2.md)
 
 ### 贪心算法
@@ -118,11 +120,13 @@
 
 
 ### 其它
+* 29 [两数相除](https://github.com/wyh317/Leetcode/blob/master/%E5%85%B6%E4%BB%96/29.%E4%B8%A4%E6%95%B0%E7%9B%B8%E9%99%A4.md)
 * 58 [最后一个单词的长度(字符串)](https://github.com/wyh317/Leetcode/blob/master/其他/58.最后一个单词的长度.md)
 * 169 [多数元素(哈希表)](https://github.com/wyh317/Leetcode/blob/master/其他/169.多数元素.md)
 * 137 [只出现一次的数字II(位运算)](https://github.com/wyh317/Leetcode/blob/master/%E5%85%B6%E4%BB%96/137.%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E6%95%B0%E5%AD%97II.md)
 * 172 [阶乘后的0(数学)](https://github.com/wyh317/Leetcode/blob/master/%E5%85%B6%E4%BB%96/172.%E9%98%B6%E4%B9%98%E5%90%8E%E7%9A%840.md)
 * 231 [2的幂(位运算)](https://github.com/wyh317/Leetcode/blob/master/其他/231.2的幂.md)
+* 258 [各位相加](https://github.com/wyh317/Leetcode/blob/master/%E5%85%B6%E4%BB%96/258.%E5%90%84%E4%BD%8D%E7%9B%B8%E5%8A%A0.md)
 ---
 
 ## :computer: <span id="系统设计">系统设计</span>
