@@ -98,6 +98,7 @@
 * 22 [括号生成](https://github.com/wyh317/Leetcode/blob/master/%E5%9B%9E%E6%BA%AF%E7%AE%97%E6%B3%95/22.%E6%8B%AC%E5%8F%B7%E7%94%9F%E6%88%90.md)
 * 39 40 [组合总和](https://github.com/wyh317/Leetcode/blob/master/%E5%9B%9E%E6%BA%AF%E7%AE%97%E6%B3%95/39.%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C.md)
 * 46 47[全排列](https://github.com/wyh317/Leetcode/blob/master/%E5%9B%9E%E6%BA%AF%E7%AE%97%E6%B3%95/46.%E5%85%A8%E6%8E%92%E5%88%97.md)
+* 79 [单词搜索](https://github.com/wyh317/Leetcode/blob/master/%E5%9B%9E%E6%BA%AF%E7%AE%97%E6%B3%95/79.%E5%8D%95%E8%AF%8D%E6%90%9C%E7%B4%A2.md)
 ### 动态规划
 * 5 [最长回文子串](https://github.com/wyh317/Leetcode/blob/master/动态规划/5.最长回文子串.md)
 * 53 [最大子序和](https://github.com/wyh317/Leetcode/blob/master/动态规划/53.最大子序和.md)
