@@ -146,4 +146,4 @@
 ## :computer: <span id="系统设计">系统设计</span>
 * 146 [LRU缓存机制](https://github.com/wyh317/Leetcode/blob/master/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/146.%20LRU%E7%BC%93%E5%AD%98%E6%9C%BA%E5%88%B6.md)
 * 173 [二叉搜索树迭代器](https://github.com/wyh317/Leetcode/blob/master/系统设计/173.二叉搜索树迭代器.md)
-* 382 [O(1)时间插入、删除和获取随机元素-允许重复](https://github.com/wyh317/Leetcode/blob/master/其他/381.O(1) 时间插入、删除和获取随机元素 - 允许重复.md)
+* 381 [常数时间复杂度插入、删除和获取随机元素-允许重复](https://github.com/wyh317/Leetcode/blob/master/其他/381.O(1) 时间插入、删除和获取随机元素 - 允许重复.md)
