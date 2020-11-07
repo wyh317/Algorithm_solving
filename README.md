@@ -44,6 +44,7 @@
 ### 栈与队列
 * 20 [有效的括号](https://github.com/wyh317/Leetcode/blob/master/%E6%A0%88%E4%B8%8E%E9%98%9F%E5%88%97/20.%E6%9C%89%E6%95%88%E7%9A%84%E6%8B%AC%E5%8F%B7.md)
 * 71 [简化路径](https://github.com/wyh317/Leetcode/blob/master/%E6%A0%88%E4%B8%8E%E9%98%9F%E5%88%97/71.%E7%AE%80%E5%8C%96%E8%B7%AF%E5%BE%84.md)
+* 84 [柱状图中最大的矩形(单调栈)](https://github.com/wyh317/Leetcode/blob/master/%E6%A0%88%E4%B8%8E%E9%98%9F%E5%88%97/84.%E6%9F%B1%E7%8A%B6%E5%9B%BE%E4%B8%AD%E6%9C%80%E5%A4%A7%E7%9A%84%E7%9F%A9%E5%BD%A2.md)
 * 225 [用队列实现栈](https://github.com/wyh317/Leetcode/blob/master/%E6%A0%88%E4%B8%8E%E9%98%9F%E5%88%97/225.%E7%94%A8%E9%98%9F%E5%88%97%E5%AE%9E%E7%8E%B0%E6%A0%88.md)
 * 232 [用栈实现队列](https://github.com/wyh317/Leetcode/blob/master/%E6%A0%88%E4%B8%8E%E9%98%9F%E5%88%97/232.%E7%94%A8%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97.md)
 
