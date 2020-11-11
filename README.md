@@ -132,6 +132,9 @@
 * 134 [加油站](https://github.com/wyh317/Leetcode/blob/master/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/134.%E5%8A%A0%E6%B2%B9%E7%AB%99.md)
 * 502 [IPO](https://github.com/wyh317/Leetcode/blob/master/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/502.IPO.md)
 
+### 分治算法
+* 241 [为运算表达式设计优先级](https://github.com/wyh317/Leetcode/blob/master/%E5%88%86%E6%B2%BB%E7%AE%97%E6%B3%95/241.%E4%B8%BA%E8%BF%90%E7%AE%97%E8%A1%A8%E8%BE%BE%E5%BC%8F%E8%AE%BE%E8%AE%A1%E4%BC%98%E5%85%88%E7%BA%A7.md)
+
 ### 滑动窗口
 * 3 [无重复字符的最长子串](https://github.com/wyh317/Leetcode/blob/master/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3/3.%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2.md)
 * 209 [长度最小的子数组](https://github.com/wyh317/Leetcode/blob/master/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3/209.%E9%95%BF%E5%BA%A6%E6%9C%80%E5%B0%8F%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84.md)
