@@ -125,6 +125,7 @@
 * 416 [分割等和子集(01背包)](https://github.com/wyh317/Leetcode/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/416.%E5%88%86%E5%89%B2%E7%AD%89%E5%92%8C%E5%AD%90%E9%9B%86.md)
 * 474 [一和零(01背包)](https://github.com/wyh317/Leetcode/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/474.%E4%B8%80%E5%92%8C%E9%9B%B6.md)
 * 494 [目标和(01背包)](https://github.com/wyh317/Leetcode/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/494.%E7%9B%AE%E6%A0%87%E5%92%8C.md)
+* 514 [自由之路](https://github.com/wyh317/Leetcode/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/514.%E8%87%AA%E7%94%B1%E4%B9%8B%E8%B7%AF.md)
 * 518 [零钱兑换II](https://github.com/wyh317/Leetcode/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/518.%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2%20II.md)
 
 ### 贪心算法
