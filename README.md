@@ -40,6 +40,7 @@
 * 327 [区间和的个数(归并排序)](https://github.com/wyh317/Leetcode/blob/master/%E6%95%B0%E7%BB%84/327.%E5%8C%BA%E9%97%B4%E5%92%8C%E7%9A%84%E4%B8%AA%E6%95%B0.md)
 * 349 [两个数组的交集](https://github.com/wyh317/Leetcode/blob/master/%E6%95%B0%E7%BB%84/349.%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%BB%84%E7%9A%84%E4%BA%A4%E9%9B%86.md)
 * 384 [打乱数组](https://github.com/wyh317/Leetcode/blob/master/%E6%95%B0%E7%BB%84/384.%E6%89%93%E4%B9%B1%E6%95%B0%E7%BB%84.md)
+* 493 [翻转对(归并排序)](https://github.com/wyh317/Leetcode/blob/master/%E6%95%B0%E7%BB%84/493.%20%E7%BF%BB%E8%BD%AC%E5%AF%B9.md)
 * 560 [和为K的子数组](https://github.com/wyh317/Leetcode/blob/master/%E6%95%B0%E7%BB%84/560.%E5%92%8C%E4%B8%BAK%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84.md)
 
 ### 栈与队列
@@ -99,6 +100,7 @@
 * 133 [克隆图](https://github.com/wyh317/Leetcode/blob/master/%E6%B7%B1%E5%BA%A6%EF%BC%88%E5%B9%BF%E5%BA%A6%EF%BC%89%E4%BC%98%E5%85%88%E9%81%8D%E5%8E%86/133%20%E5%85%8B%E9%9A%86%E5%9B%BE.md)
 * 200 [岛屿数量](https://github.com/wyh317/Leetcode/blob/master/%E6%B7%B1%E5%BA%A6%EF%BC%88%E5%B9%BF%E5%BA%A6%EF%BC%89%E4%BC%98%E5%85%88%E9%81%8D%E5%8E%86/200.%E5%B2%9B%E5%B1%BF%E6%95%B0%E9%87%8F.md)
 * 207 210 [课程表](https://github.com/wyh317/Leetcode/blob/master/%E6%B7%B1%E5%BA%A6%EF%BC%88%E5%B9%BF%E5%BA%A6%EF%BC%89%E4%BC%98%E5%85%88%E9%81%8D%E5%8E%86/207.%E8%AF%BE%E7%A8%8B%E8%A1%A8.md)
+* 279 [完全平方数](https://github.com/wyh317/Leetcode/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/279.%E5%AE%8C%E5%85%A8%E5%B9%B3%E6%96%B9%E6%95%B0.md)
 * 515 [在每个树行中找最大值](https://github.com/wyh317/Leetcode/blob/master/%E6%B7%B1%E5%BA%A6%EF%BC%88%E5%B9%BF%E5%BA%A6%EF%BC%89%E4%BC%98%E5%85%88%E9%81%8D%E5%8E%86/515.%E5%9C%A8%E6%AF%8F%E4%B8%AA%E6%A0%91%E8%A1%8C%E4%B8%AD%E6%89%BE%E6%9C%80%E5%A4%A7%E5%80%BC.md)
 * 542 [01矩阵](https://github.com/wyh317/Leetcode/blob/master/%E6%B7%B1%E5%BA%A6%EF%BC%88%E5%B9%BF%E5%BA%A6%EF%BC%89%E4%BC%98%E5%85%88%E9%81%8D%E5%8E%86/542.01%E7%9F%A9%E9%98%B5.md)
 
