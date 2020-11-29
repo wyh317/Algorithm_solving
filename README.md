@@ -49,6 +49,7 @@
 * 84 [柱状图中最大的矩形(单调栈)](https://github.com/wyh317/Leetcode/blob/master/%E6%A0%88%E4%B8%8E%E9%98%9F%E5%88%97/84.%E6%9F%B1%E7%8A%B6%E5%9B%BE%E4%B8%AD%E6%9C%80%E5%A4%A7%E7%9A%84%E7%9F%A9%E5%BD%A2.md)
 * 225 [用队列实现栈](https://github.com/wyh317/Leetcode/blob/master/%E6%A0%88%E4%B8%8E%E9%98%9F%E5%88%97/225.%E7%94%A8%E9%98%9F%E5%88%97%E5%AE%9E%E7%8E%B0%E6%A0%88.md)
 * 232 [用栈实现队列](https://github.com/wyh317/Leetcode/blob/master/%E6%A0%88%E4%B8%8E%E9%98%9F%E5%88%97/232.%E7%94%A8%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97.md)
+* 5614 [找出最具竞争力的子序列(单调栈)](https://github.com/wyh317/Leetcode/blob/master/%E6%A0%88%E4%B8%8E%E9%98%9F%E5%88%97/5614.%E6%89%BE%E5%87%BA%E6%9C%80%E5%85%B7%E7%AB%9E%E4%BA%89%E5%8A%9B%E7%9A%84%E5%AD%90%E5%BA%8F%E5%88%97.md)
 
 ### 树
 * 96 [不同的二叉搜索树](https://github.com/wyh317/Leetcode/blob/master/%E6%A0%91/96.%E4%B8%8D%E5%90%8C%E7%9A%84%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.md)
@@ -135,6 +136,7 @@
 * 134 [加油站](https://github.com/wyh317/Leetcode/blob/master/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/134.%E5%8A%A0%E6%B2%B9%E7%AB%99.md)
 * 435 [无重叠区间](https://github.com/wyh317/Leetcode/blob/master/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/435.%E6%97%A0%E9%87%8D%E5%8F%A0%E5%8C%BA%E9%97%B4.md)
 * 502 [IPO](https://github.com/wyh317/Leetcode/blob/master/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/502.IPO.md)
+* 1663 [具有给定数值的最小字符串](https://github.com/wyh317/Leetcode/blob/master/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/1663.%E5%85%B7%E6%9C%89%E7%BB%99%E5%AE%9A%E6%95%B0%E5%80%BC%E7%9A%84%E6%9C%80%E5%B0%8F%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
 
 ### 分治算法
 * 95 [不同的二叉搜索树 II](https://github.com/wyh317/Leetcode/blob/master/%E5%88%86%E6%B2%BB%E7%AE%97%E6%B3%95/95.%E4%B8%8D%E5%90%8C%E7%9A%84%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%20II.md)
