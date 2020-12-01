@@ -111,6 +111,7 @@
 * 46 47[全排列](https://github.com/wyh317/Leetcode/blob/master/%E5%9B%9E%E6%BA%AF%E7%AE%97%E6%B3%95/46.%E5%85%A8%E6%8E%92%E5%88%97.md)
 * 79 [单词搜索](https://github.com/wyh317/Leetcode/blob/master/%E5%9B%9E%E6%BA%AF%E7%AE%97%E6%B3%95/79.%E5%8D%95%E8%AF%8D%E6%90%9C%E7%B4%A2.md)
 * 51 52 [N皇后](https://github.com/wyh317/Leetcode/blob/master/%E5%9B%9E%E6%BA%AF%E7%AE%97%E6%B3%95/51.%20N%E7%9A%87%E5%90%8E.md)
+* 93 [复原IP地址](https://github.com/wyh317/Leetcode/blob/master/%E5%9B%9E%E6%BA%AF%E7%AE%97%E6%B3%95/93.%E5%A4%8D%E5%8E%9FIP%E5%9C%B0%E5%9D%80.md)
 
 ### 动态规划
 * 5 [最长回文子串](https://github.com/wyh317/Leetcode/blob/master/动态规划/5.最长回文子串.md)
