@@ -112,6 +112,7 @@
 * 79 [单词搜索](https://github.com/wyh317/Leetcode/blob/master/%E5%9B%9E%E6%BA%AF%E7%AE%97%E6%B3%95/79.%E5%8D%95%E8%AF%8D%E6%90%9C%E7%B4%A2.md)
 * 51 52 [N皇后](https://github.com/wyh317/Leetcode/blob/master/%E5%9B%9E%E6%BA%AF%E7%AE%97%E6%B3%95/51.%20N%E7%9A%87%E5%90%8E.md)
 * 93 [复原IP地址](https://github.com/wyh317/Leetcode/blob/master/%E5%9B%9E%E6%BA%AF%E7%AE%97%E6%B3%95/93.%E5%A4%8D%E5%8E%9FIP%E5%9C%B0%E5%9D%80.md)
+* 131 [分割回文串](https://github.com/wyh317/Leetcode/blob/master/%E5%9B%9E%E6%BA%AF%E7%AE%97%E6%B3%95/131.%E5%88%86%E5%89%B2%E5%9B%9E%E6%96%87%E4%B8%B2.md)
 
 ### 动态规划
 * 5 [最长回文子串](https://github.com/wyh317/Leetcode/blob/master/动态规划/5.最长回文子串.md)
@@ -138,6 +139,7 @@
 * 435 [无重叠区间](https://github.com/wyh317/Leetcode/blob/master/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/435.%E6%97%A0%E9%87%8D%E5%8F%A0%E5%8C%BA%E9%97%B4.md)
 * 502 [IPO](https://github.com/wyh317/Leetcode/blob/master/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/502.IPO.md)
 * 621 [任务调度器](https://github.com/wyh317/Leetcode/blob/master/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/621.%20%E4%BB%BB%E5%8A%A1%E8%B0%83%E5%BA%A6%E5%99%A8.md)
+* 861 [翻转矩阵后的得分](https://github.com/wyh317/Leetcode/blob/master/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/861.%20%E7%BF%BB%E8%BD%AC%E7%9F%A9%E9%98%B5%E5%90%8E%E7%9A%84%E5%BE%97%E5%88%86.md)
 * 1663 [具有给定数值的最小字符串](https://github.com/wyh317/Leetcode/blob/master/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/1663.%E5%85%B7%E6%9C%89%E7%BB%99%E5%AE%9A%E6%95%B0%E5%80%BC%E7%9A%84%E6%9C%80%E5%B0%8F%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
 
 ### 分治算法
