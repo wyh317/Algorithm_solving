@@ -128,6 +128,7 @@
 * 198 [打家劫舍](https://github.com/wyh317/Leetcode/blob/master/动态规划/198.打家劫舍.md)
 * 309 [最佳买卖股票时机含冷冻期](https://github.com/wyh317/Leetcode/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/309.%E6%9C%80%E4%BD%B3%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E6%97%B6%E6%9C%BA%E5%90%AB%E5%86%B7%E5%86%BB%E6%9C%9F.md)
 * 322 [零钱兑换](https://github.com/wyh317/Leetcode/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/322.%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2.md)
+* 343 [整数拆分](https://github.com/wyh317/Leetcode/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/343.%E6%95%B4%E6%95%B0%E6%8B%86%E5%88%86.md)
 * 416 [分割等和子集(01背包)](https://github.com/wyh317/Leetcode/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/416.%E5%88%86%E5%89%B2%E7%AD%89%E5%92%8C%E5%AD%90%E9%9B%86.md)
 * 474 [一和零(01背包)](https://github.com/wyh317/Leetcode/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/474.%E4%B8%80%E5%92%8C%E9%9B%B6.md)
 * 494 [目标和(01背包)](https://github.com/wyh317/Leetcode/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/494.%E7%9B%AE%E6%A0%87%E5%92%8C.md)
