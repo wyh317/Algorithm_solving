@@ -166,6 +166,7 @@
 * 172 [阶乘后的0(数学)](https://github.com/wyh317/Leetcode/blob/master/%E5%85%B6%E4%BB%96/172.%E9%98%B6%E4%B9%98%E5%90%8E%E7%9A%840.md)
 * 231 [2的幂(位运算)](https://github.com/wyh317/Leetcode/blob/master/其他/231.2的幂.md)
 * 258 [各位相加](https://github.com/wyh317/Leetcode/blob/master/%E5%85%B6%E4%BB%96/258.%E5%90%84%E4%BD%8D%E7%9B%B8%E5%8A%A0.md)
+* 260 [260.只出现一次的数字 III(位运算)](https://github.com/wyh317/Leetcode/blob/master/%E5%85%B6%E4%BB%96/260.%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E6%95%B0%E5%AD%97%20III.md)
 
 ---
 
