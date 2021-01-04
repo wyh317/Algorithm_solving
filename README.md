@@ -163,6 +163,7 @@
 ### 其它
 * 29 [两数相除](https://github.com/wyh317/Leetcode/blob/master/%E5%85%B6%E4%BB%96/29.%E4%B8%A4%E6%95%B0%E7%9B%B8%E9%99%A4.md)
 * 58 [最后一个单词的长度(字符串)](https://github.com/wyh317/Leetcode/blob/master/其他/58.最后一个单词的长度.md)
+* 128 [最长连续序列(哈希表)](https://github.com/wyh317/Leetcode/blob/master/%E5%85%B6%E4%BB%96/128.%20%E6%9C%80%E9%95%BF%E8%BF%9E%E7%BB%AD%E5%BA%8F%E5%88%97.md)
 * 169 [多数元素(哈希表)](https://github.com/wyh317/Leetcode/blob/master/其他/169.多数元素.md)
 * 137 [只出现一次的数字II(位运算)](https://github.com/wyh317/Leetcode/blob/master/%E5%85%B6%E4%BB%96/137.%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E6%95%B0%E5%AD%97II.md)
 * 172 [阶乘后的0(数学)](https://github.com/wyh317/Leetcode/blob/master/%E5%85%B6%E4%BB%96/172.%E9%98%B6%E4%B9%98%E5%90%8E%E7%9A%840.md)
