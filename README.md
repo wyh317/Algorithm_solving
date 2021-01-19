@@ -1,5 +1,5 @@
-# Leetcode
-记录自己在练习Leetcode算法题过程中的心得总结，以及一些题目的Java版本代码，持续更新
+# Algorithm_solving
+记录自己在练习算法题过程中的心得总结，以及一些题目的Java版本代码，持续更新
 
 ## 目录：
 * [数据结构](#数据结构)
@@ -9,7 +9,7 @@
 
 
 
-## :memo: <span id="数据结构">数据结构</span>
+## <span id="数据结构">数据结构</span>
 ### 链表
 * 2 [两数相加](https://github.com/wyh317/Leetcode/blob/master/%E9%93%BE%E8%A1%A8/2.%E4%B8%A4%E6%95%B0%E7%9B%B8%E5%8A%A0.md)
 * 61 [旋转链表](https://github.com/wyh317/Leetcode/blob/master/%E9%93%BE%E8%A1%A8/61.%E6%97%8B%E8%BD%AC%E9%93%BE%E8%A1%A8.md)
@@ -79,7 +79,7 @@
 * 647 [回文子串](https://github.com/wyh317/Leetcode/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/647%20%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2.md)
 ---
 
-## :bulb: <span id="算法">算法</span>
+## <span id="算法">算法</span>
 ### 二分查找
 * 33 [搜索旋转排序数组](https://github.com/wyh317/Leetcode/blob/master/%E4%BA%8C%E5%88%86/33.%E6%90%9C%E7%B4%A2%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84.md)
 * 34 [在排序数组中查找元素的第一个和最后一个位置](https://github.com/wyh317/Leetcode/blob/master/%E4%BA%8C%E5%88%86/34%20%E5%9C%A8%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E6%9F%A5%E6%89%BE%E5%85%83%E7%B4%A0%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%92%8C%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E4%BD%8D%E7%BD%AE.md)
@@ -106,7 +106,8 @@
 * 279 [完全平方数](https://github.com/wyh317/Leetcode/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/279.%E5%AE%8C%E5%85%A8%E5%B9%B3%E6%96%B9%E6%95%B0.md)
 * 515 [在每个树行中找最大值](https://github.com/wyh317/Leetcode/blob/master/%E6%B7%B1%E5%BA%A6%EF%BC%88%E5%B9%BF%E5%BA%A6%EF%BC%89%E4%BC%98%E5%85%88%E9%81%8D%E5%8E%86/515.%E5%9C%A8%E6%AF%8F%E4%B8%AA%E6%A0%91%E8%A1%8C%E4%B8%AD%E6%89%BE%E6%9C%80%E5%A4%A7%E5%80%BC.md)
 * 542 [01矩阵](https://github.com/wyh317/Leetcode/blob/master/%E6%B7%B1%E5%BA%A6%EF%BC%88%E5%B9%BF%E5%BA%A6%EF%BC%89%E4%BC%98%E5%85%88%E9%81%8D%E5%8E%86/542.01%E7%9F%A9%E9%98%B5.md)
-* 785 [判断二分图](https://github.com/wyh317/Leetcode/blob/master/%E6%B7%B1%E5%BA%A6%EF%BC%88%E5%B9%BF%E5%BA%A6%EF%BC%89%E4%BC%98%E5%85%88%E9%81%8D%E5%8E%86/785%20%E5%88%A4%E6%96%AD%E4%BA%8C%E5%88%86%E5%9B%BE.md)
+* 785 [判断二分图](https://github.com/wyh317/Algorithm_solving/blob/master/%E6%B7%B1%E5%BA%A6%EF%BC%88%E5%B9%BF%E5%BA%A6%EF%BC%89%E4%BC%98%E5%85%88%E9%81%8D%E5%8E%86/785%20%E5%88%A4%E6%96%AD%E4%BA%8C%E5%88%86%E5%9B%BE.md)
+
 ### 回溯算法
 * 22 [括号生成](https://github.com/wyh317/Leetcode/blob/master/%E5%9B%9E%E6%BA%AF%E7%AE%97%E6%B3%95/22.%E6%8B%AC%E5%8F%B7%E7%94%9F%E6%88%90.md)
 * 39 40 [组合总和](https://github.com/wyh317/Leetcode/blob/master/%E5%9B%9E%E6%BA%AF%E7%AE%97%E6%B3%95/39.%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C.md)
@@ -138,7 +139,7 @@
 * 514 [自由之路](https://github.com/wyh317/Leetcode/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/514.%E8%87%AA%E7%94%B1%E4%B9%8B%E8%B7%AF.md)
 * 518 [零钱兑换II](https://github.com/wyh317/Leetcode/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/518.%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2%20II.md)
 * 714 [买卖股票的最佳时机含手续费](https://github.com/wyh317/Leetcode/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/714.%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA%E5%90%AB%E6%89%8B%E7%BB%AD%E8%B4%B9.md)
-* 1143 [最长公共子序列](https://github.com/wyh317/Leetcode/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/1143.%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E5%AD%90%E5%BA%8F%E5%88%97.md)
+* 1143 [最长公共子序列](https://github.com/wyh317/Algorithm_solving/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/1143.%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E5%AD%90%E5%BA%8F%E5%88%97.md)
 
 ### 贪心算法
 * 134 [加油站](https://github.com/wyh317/Leetcode/blob/master/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/134.%E5%8A%A0%E6%B2%B9%E7%AB%99.md)
@@ -174,7 +175,7 @@
 
 ---
 
-## :computer: <span id="系统设计">系统设计</span>
+## <span id="系统设计">系统设计</span>
 * 146 [LRU缓存机制](https://github.com/wyh317/Leetcode/blob/master/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/146.%20LRU%E7%BC%93%E5%AD%98%E6%9C%BA%E5%88%B6.md)
 * 173 [二叉搜索树迭代器](https://github.com/wyh317/Leetcode/blob/master/系统设计/173.二叉搜索树迭代器.md)
-* 381 [常数时间复杂度插入、删除和获取随机元素-允许重复](https://github.com/wyh317/Leetcode/blob/master/%E5%85%B6%E4%BB%96/381.O(1)%20%E6%97%B6%E9%97%B4%E6%8F%92%E5%85%A5%E3%80%81%E5%88%A0%E9%99%A4%E5%92%8C%E8%8E%B7%E5%8F%96%E9%9A%8F%E6%9C%BA%E5%85%83%E7%B4%A0%20-%20%E5%85%81%E8%AE%B8%E9%87%8D%E5%A4%8D.md)
+* 381 [常数时间复杂度插入、删除和获取随机元素-允许重复](https://github.com/wyh317/Algorithm_solving/blob/master/%E5%85%B6%E4%BB%96/381.%E5%B8%B8%E6%95%B0%E6%97%B6%E9%97%B4%E6%8F%92%E5%85%A5%E3%80%81%E5%88%A0%E9%99%A4%E5%92%8C%E8%8E%B7%E5%8F%96%E9%9A%8F%E6%9C%BA%E5%85%83%E7%B4%A0%20-%20%E5%85%81%E8%AE%B8%E9%87%8D%E5%A4%8D.md)
