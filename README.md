@@ -76,6 +76,7 @@
 * 205 [同构字符串](https://github.com/wyh317/Leetcode/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/205.%E5%90%8C%E6%9E%84%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
 * 208 [实现Trie(前缀树)](https://github.com/wyh317/Leetcode/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/208.%E5%AE%9E%E7%8E%B0Trie%E6%A0%91.md)
 * 459 [重复的字符串](https://github.com/wyh317/Leetcode/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/459.%20%E9%87%8D%E5%A4%8D%E7%9A%84%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
+* 468 [验证IP地址](https://github.com/wyh317/Algorithm_solving/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/468.%E9%AA%8C%E8%AF%81IP%E5%9C%B0%E5%9D%80.md)
 * 647 [回文子串](https://github.com/wyh317/Leetcode/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/647%20%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2.md)
 ---
 
