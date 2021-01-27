@@ -150,6 +150,7 @@
 * 502 [IPO](https://github.com/wyh317/Leetcode/blob/master/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/502.IPO.md)
 * 621 [任务调度器](https://github.com/wyh317/Leetcode/blob/master/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/621.%20%E4%BB%BB%E5%8A%A1%E8%B0%83%E5%BA%A6%E5%99%A8.md)
 * 861 [翻转矩阵后的得分](https://github.com/wyh317/Leetcode/blob/master/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/861.%20%E7%BF%BB%E8%BD%AC%E7%9F%A9%E9%98%B5%E5%90%8E%E7%9A%84%E5%BE%97%E5%88%86.md)
+* 1579 [保证图可完全遍历（贪心 + 并查集）](https://github.com/wyh317/Algorithm_solving/blob/master/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/1579.%E4%BF%9D%E8%AF%81%E5%9B%BE%E5%8F%AF%E5%AE%8C%E5%85%A8%E9%81%8D%E5%8E%86.md)
 * 1663 [具有给定数值的最小字符串](https://github.com/wyh317/Leetcode/blob/master/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/1663.%E5%85%B7%E6%9C%89%E7%BB%99%E5%AE%9A%E6%95%B0%E5%80%BC%E7%9A%84%E6%9C%80%E5%B0%8F%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
 
 ### 分治算法
