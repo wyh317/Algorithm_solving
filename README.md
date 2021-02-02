@@ -122,7 +122,7 @@
 * 5 [最长回文子串](https://github.com/wyh317/Leetcode/blob/master/动态规划/5.最长回文子串.md)
 * 53 [最大子序和](https://github.com/wyh317/Leetcode/blob/master/动态规划/53.最大子序和.md)
 * 62 [不同路径](https://github.com/wyh317/Leetcode/blob/master/动态规划/62.不同路径.md)
-* 63 [不同路径II.md](https://github.com/wyh317/Leetcode/blob/master/动态规划/63.不同路径II.md)
+* 63 [不同路径II](https://github.com/wyh317/Leetcode/blob/master/动态规划/63.不同路径II.md)
 * 70 [爬楼梯](https://github.com/wyh317/Leetcode/blob/master/动态规划/70.爬楼梯.md)
 * 72 [编辑距离](https://github.com/wyh317/Algorithm_solving/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/72.%20%E7%BC%96%E8%BE%91%E8%B7%9D%E7%A6%BB.md)
 * 91 [解码方法](https://github.com/wyh317/Leetcode/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/91.%E8%A7%A3%E7%A0%81%E6%96%B9%E6%B3%95.md)
@@ -162,7 +162,8 @@
 * 3 [无重复字符的最长子串](https://github.com/wyh317/Leetcode/blob/master/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3/3.%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2.md)
 * 209 [长度最小的子数组](https://github.com/wyh317/Leetcode/blob/master/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3/209.%E9%95%BF%E5%BA%A6%E6%9C%80%E5%B0%8F%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84.md)
 * 219 [存在重复元素II](https://github.com/wyh317/Leetcode/blob/master/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3/219.%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0II.md)
-  
+* 424 [替换后的最长重复字符](https://github.com/wyh317/Algorithm_solving/blob/master/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3/424.%20%E6%9B%BF%E6%8D%A2%E5%90%8E%E7%9A%84%E6%9C%80%E9%95%BF%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6.md)
+* 438 [找到字符串中所有字母异位词](https://github.com/wyh317/Algorithm_solving/blob/master/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3/438.%20%E6%89%BE%E5%88%B0%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E6%89%80%E6%9C%89%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D.md)
 
 
 ### 其它
