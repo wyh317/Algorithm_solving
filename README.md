@@ -120,6 +120,7 @@
 
 ### 动态规划
 * 5 [最长回文子串](https://github.com/wyh317/Leetcode/blob/master/动态规划/5.最长回文子串.md)
+* 32 [最长有效括号](https://github.com/wyh317/Algorithm_solving/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/32.%E6%9C%80%E9%95%BF%E6%9C%89%E6%95%88%E6%8B%AC%E5%8F%B7.md)
 * 53 [最大子序和](https://github.com/wyh317/Leetcode/blob/master/动态规划/53.最大子序和.md)
 * 62 [不同路径](https://github.com/wyh317/Leetcode/blob/master/动态规划/62.不同路径.md)
 * 63 [不同路径II](https://github.com/wyh317/Leetcode/blob/master/动态规划/63.不同路径II.md)
